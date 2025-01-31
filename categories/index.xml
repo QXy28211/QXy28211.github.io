@@ -2,42 +2,34 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Categories on It&#39;s MyBlog!!!!!</title>
-        <link>https://example.com/categories/</link>
+        <link>https://QXy28211.github.io/categories/</link>
         <description>Recent content in Categories on It&#39;s MyBlog!!!!!</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
-        <copyright>Your Father</copyright>
-        <lastBuildDate>Thu, 30 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/categories/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>测试</title>
-        <link>https://example.com/categories/%E6%B5%8B%E8%AF%95/</link>
-        <pubDate>Thu, 30 Jan 2025 00:00:00 +0000</pubDate>
+        <copyright>Qxy28211</copyright>
+        <lastBuildDate>Fri, 31 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://QXy28211.github.io/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Markdown</title>
+        <link>https://QXy28211.github.io/categories/markdown/</link>
+        <pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/categories/%E6%B5%8B%E8%AF%95/</guid>
+        <guid>https://QXy28211.github.io/categories/markdown/</guid>
         <description></description>
         </item>
         <item>
-        <title>Syntax</title>
-        <link>https://example.com/categories/syntax/</link>
-        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+        <title>Notes</title>
+        <link>https://QXy28211.github.io/categories/notes/</link>
+        <pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/categories/syntax/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Themes</title>
-        <link>https://example.com/categories/themes/</link>
-        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>https://example.com/categories/themes/</guid>
+        <guid>https://QXy28211.github.io/categories/notes/</guid>
         <description></description>
         </item>
         <item>
         <title>Test</title>
-        <link>https://example.com/categories/test/</link>
-        <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+        <link>https://QXy28211.github.io/categories/test/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/categories/test/</guid>
-        <description>&lt;img src="https://example.com/categories/test/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg" alt="Featured image of post Test" /&gt;</description>
+        <guid>https://QXy28211.github.io/categories/test/</guid>
+        <description>&lt;img src="https://QXy28211.github.io/categories/test/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg" alt="Featured image of post Test" /&gt;</description>
         </item>
         
     </channel>
